@@ -1,0 +1,5 @@
+* Vagrant Test Repository
+
+  This repository is a proof of concept for the use of vagrant to
+  check the execution of the [[https://github.com/userzc/planning_problem_examples][planning problems]] repo in several linux
+  distributions.
